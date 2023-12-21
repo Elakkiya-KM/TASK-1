@@ -30,7 +30,7 @@ Feature: Prioritises critical resources, ensuring important assets are delivered
 ### Conclusion:
 The shift from HTTP1.1 to HTTP2 marks a significant advancement in web protocol technology. HTTP2's multiplexing, header compression, and other enhancements have revolutionised web performance, resulting in faster, more efficient, and secure web experiences.Adopting HTTP/2 offers substantial advantages over its predecessor, contributing to a faster, smoother, and more responsive web, benefitting both users and businesses alike.
 
-## Write a blog about objects and its internal representation in Javascript
+## 2. Write a blog about objects and its internal representation in Javascript
 
 Exploring Objects and Their Internal Representation in JavaScript. JavaScript, as an object-oriented language, revolves around the concept of objects. These objects serve as the building blocks for creating complex data structures, and understanding their internal representation is crucial for effective programming.
 
